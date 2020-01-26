@@ -1,4 +1,4 @@
-# pleaseHireMe
+# Tamu Hack Project Objective List:
 Tamu Hack 2020 Project
 Objectives:
 Set up basic html layout
